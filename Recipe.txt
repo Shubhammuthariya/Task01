@@ -9,3 +9,9 @@ version 2.0
 batman
 superman
 padman
+
+fast food 
+burger
+pizza
+cake
+coka cola
